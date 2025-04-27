@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**anasmostafa23/anasmostafa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anas Afif**  
+`Telecom Engineer` | `IT Master's Student` @ Chelyabinsk State University (ЧелГУ)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- intersted in **Web Development** and **ML/DL**  ,and have a soft spot for Telecom (5g and RF tech)
+- Currently mastering: `Python` `C#` `ASP.NET Core` `PyTorch`
+- Human Languages : **Arabic** , **Englsih** , **French** , **Russian**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Recent Projects
+- 🤖 [Text Summarizer](https://github.com/anasmostafa23/Text_summarizer) - NLP model with Flask & Telegram bot  
+- ☕ [Cafe Order System](https://github.com/anasmostafa23/Cafe_Order_Management_System) - DDD implementation in ASP.NET Core  
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anas-mostafa-afif)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:anasmostafa23@yahoo.com)
+
+
+---
