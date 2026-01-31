@@ -15,6 +15,6 @@
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anas-mostafa-afif)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:anasmostafa23@yahoo.com)
-[![Email/mail.ru](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:anasmostafa23@mail.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:anasmostafa23@mail.ru) mail.ru
 
 ---
